@@ -1,7 +1,9 @@
 site_name: Danilo Catapan
+repo_url: https://github.com/danilocatapan/blog/
+#site_url: https://danilocatapan.com/blog/
 theme:
   name: material
-  # favicon: minhafoto.jpeg
+  favicon: logo-preto.png
   icon:
     logo: material/keyboard
   palette:
